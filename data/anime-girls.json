@@ -1,0 +1,6146 @@
+[
+  {
+    "tournamentRank": "1",
+    "worldRank": 75,
+    "girlName": "Фей Валентайн",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "2",
+    "worldRank": 31,
+    "girlName": "Макима",
+    "animeName": "Человек бензопила"
+  },
+  {
+    "tournamentRank": "3 - 4",
+    "worldRank": 102,
+    "girlName": "Харухи Судзумия",
+    "animeName": "Меланхолия Харухи Судзумии"
+  },
+  {
+    "tournamentRank": "3 - 4",
+    "worldRank": 15,
+    "girlName": "Кагуя Шиномия",
+    "animeName": "Госпожа Кагуя: В любви как на войне"
+  },
+  {
+    "tournamentRank": "5 - 8",
+    "worldRank": 861,
+    "girlName": "Чибиуса Цукино",
+    "animeName": "Сейлор Мун"
+  },
+  {
+    "tournamentRank": "5 - 8",
+    "worldRank": 2,
+    "girlName": "Кацураги Мисато",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "5 - 8",
+    "worldRank": 208,
+    "girlName": "Цумуги Котобуки",
+    "animeName": "К-он!"
+  },
+  {
+    "tournamentRank": "5 - 8",
+    "worldRank": 187,
+    "girlName": "Риза Хоукай",
+    "animeName": "Стальной алхимик"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 109,
+    "girlName": "Аква",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 871,
+    "girlName": "Француаза Эпплдели",
+    "animeName": "Ковбой Бибоп"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 94,
+    "girlName": "Лейн Ивакура",
+    "animeName": "Эксперименты Лейн"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 95,
+    "girlName": "Ризе Камиширо",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 9,
+    "girlName": "Аянами Рей",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 282,
+    "girlName": "Кофуку",
+    "animeName": "Бездомный бог"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 84,
+    "girlName": "Это Йошимура",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "9 - 16",
+    "worldRank": 131,
+    "girlName": "Рицу Тайнака",
+    "animeName": "К-он!"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 216,
+    "girlName": "Рил Мэйер",
+    "animeName": "Эрго Прокси"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 73,
+    "girlName": "Интегра Хеллсинг",
+    "animeName": "Хеллсинг"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 185,
+    "girlName": "Юи Юигахама",
+    "animeName": "Розовая пора моей школьной жизни - сплошной обман"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 476,
+    "girlName": "Лиза Мишима",
+    "animeName": "Эхо террора"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 8,
+    "girlName": "Аска Ленгли Сикинами",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 37,
+    "girlName": "Реви",
+    "animeName": "Пираты \"Чёрной лагуны\""
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 59,
+    "girlName": "Хистория Рейсс",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 197,
+    "girlName": "Шизуку",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 270,
+    "girlName": "Андроид 18",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 204,
+    "girlName": "Неллиэль Ту Одельшванк",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 184,
+    "girlName": "Акияма Мио",
+    "animeName": "К-он!"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 40,
+    "girlName": "Чика Фудживара",
+    "animeName": "Госпожа Кагуя: В любви как на войне"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 16,
+    "girlName": "Хоро",
+    "animeName": "Волчица и пряности"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 170,
+    "girlName": "Каори Миядзоно",
+    "animeName": "Твоя апрельская ложь"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 325,
+    "girlName": "Нора",
+    "animeName": "Бездомный бог"
+  },
+  {
+    "tournamentRank": "17 - 32",
+    "worldRank": 552,
+    "girlName": "Эмма",
+    "animeName": "Обещанный Неверленд"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 92,
+    "girlName": "Химэно",
+    "animeName": "Человек-бензопила"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 60,
+    "girlName": "Шоко Нишимия",
+    "animeName": "Форма голоса"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 199,
+    "girlName": "Тамаки Котацу",
+    "animeName": "Пламенная бригада пожарных"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 973,
+    "girlName": "Лотте Янсон",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 26,
+    "girlName": "Рокси Мигурдия",
+    "animeName": "Реинкарнация безработного"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 242,
+    "girlName": "Аяка Синдо",
+    "animeName": "За гранью"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 154,
+    "girlName": "Рукия Кучики",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 404,
+    "girlName": "Маю",
+    "animeName": "Бездомный бог"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 287,
+    "girlName": "Наоми Мисора",
+    "animeName": "Тетрадь смерти"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 89,
+    "girlName": "Рюко Матой",
+    "animeName": "Убей или умри"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 122,
+    "girlName": "Ай Ото",
+    "animeName": "Приоритет чудо-яйца"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 428,
+    "girlName": "Юзуру Нишимия",
+    "animeName": "Форма голоса"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 100,
+    "girlName": "Кёко Киригири",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 474,
+    "girlName": "Шираюки",
+    "animeName": "Красноволосая принцесса Белоснежка"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 603,
+    "girlName": "Фио Ванетти",
+    "animeName": "91 день"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 504,
+    "girlName": "Хиноэ",
+    "animeName": "Тетрадь дружбы Нацумэ"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 278,
+    "girlName": "Нацуми Суга",
+    "animeName": "Дитя погоды"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 512,
+    "girlName": "Юфемия Британская",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 29,
+    "girlName": "Пауэр",
+    "animeName": "Человек бензопила"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 272,
+    "girlName": "Ино Яманака",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 514,
+    "girlName": "Иори Нагасэ",
+    "animeName": "Связь сердец"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 210,
+    "girlName": "Сой Фон",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 969,
+    "girlName": "Пакунода",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 7,
+    "girlName": "Вайолет Эвергарден",
+    "animeName": "Вайолет Эвергарден"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 302,
+    "girlName": "Мицуха Миямидзу",
+    "animeName": "Твоё имя"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 190,
+    "girlName": "Мива Касуми",
+    "animeName": "Магическая битва"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 81,
+    "girlName": "Тайга Айсака",
+    "animeName": "ТораДора!"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 719,
+    "girlName": "Кирино Косака",
+    "animeName": "Ну не может моя сестрёнка быть такой милой"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 56,
+    "girlName": "Маки Зенин",
+    "animeName": "Магическая битва"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 35,
+    "girlName": "Хината Хьюга",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 345,
+    "girlName": "Неджире Хадо",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "33 - 64",
+    "worldRank": 323,
+    "girlName": "Эрис",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 97,
+    "girlName": "Рикка Таканаши",
+    "animeName": "Чудачество любви не помеха!"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 515,
+    "girlName": "Синтия Мур",
+    "animeName": "Великий приворщик"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 605,
+    "girlName": "Фу Касуми",
+    "animeName": "Самурай Чамплу"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 327,
+    "girlName": "Хитч Дрейс",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 717,
+    "girlName": "Адзуса Фуюцуки",
+    "animeName": "Крутой учитель Онидзука"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 596,
+    "girlName": "Чихиро Фуджисаки",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 225,
+    "girlName": "Виктория Серас",
+    "animeName": "Хеллсинг"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 1013,
+    "girlName": "Казуми Акияма",
+    "animeName": "Инициал Ди"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 700,
+    "girlName": "Тамако Китасиракава",
+    "animeName": "Магазинчик Тамако"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 870,
+    "girlName": "Аой Хёдо",
+    "animeName": "Президент студсовета — горничная!"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 448,
+    "girlName": "Маяка Ибара",
+    "animeName": "Хьёка: Тебе не уйти!"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 250,
+    "girlName": "Диана Кавендиш",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 590,
+    "girlName": "Кё Фудзибаяши",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 62,
+    "girlName": "Ёко",
+    "animeName": "Гуррен-Лаганн"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 121,
+    "girlName": "Сакура Харуно",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 898,
+    "girlName": "Кусуэ Хакодзаки",
+    "animeName": "Я стою на миллионах трупов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 957,
+    "girlName": "Мио Наганохора",
+    "animeName": "Мелочи жизни"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 205,
+    "girlName": "Мисака Микото",
+    "animeName": "Некий научный рейлган"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 193,
+    "girlName": "Похоть",
+    "animeName": "Стальной алхимик"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 258,
+    "girlName": "Уруми Канзаки",
+    "animeName": "Крутой учитель Онидзука"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 45,
+    "girlName": "Рин Тосака",
+    "animeName": "Судьба/Ночь схватки"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 4,
+    "girlName": "Макисе Курису",
+    "animeName": "Врата Штейна"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 729,
+    "girlName": "Таэ Ямада",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 365,
+    "girlName": "Аки Шино",
+    "animeName": "Ремейк нашей жизни"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 533,
+    "girlName": "Нему Куроцучи",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 79,
+    "girlName": "Рангику Мацумото",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 34,
+    "girlName": "Эмилия",
+    "animeName": "Re:Zero"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 233,
+    "girlName": "Эда",
+    "animeName": "Пираты \"Чёрной лагуны\""
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 119,
+    "girlName": "Рин Нохара",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 481,
+    "girlName": "Балалайка",
+    "animeName": "Пираты \"Чёрной лагуны\""
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 437,
+    "girlName": "Мидори Токива",
+    "animeName": "Магазинчик Тамако"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 640,
+    "girlName": "Аканэ Сэнри",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 22,
+    "girlName": "Юмэко Джабами",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 613,
+    "girlName": "Рэйчел",
+    "animeName": "Башня Бога"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 581,
+    "girlName": "Хина Эбина",
+    "animeName": "Розовая пора моей школьной жизни - сплошной обман"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 230,
+    "girlName": "Йошина Химекава",
+    "animeName": "Рандеву с жизнью"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 300,
+    "girlName": "Акира Мадо",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 53,
+    "girlName": "Чизуру Итиносэ",
+    "animeName": "Девушка на час"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 661,
+    "girlName": "Шиори Асагири",
+    "animeName": "Магазинчик Тамако"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 677,
+    "girlName": "Хельга",
+    "animeName": "Сага о Винланде"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 147,
+    "girlName": "Котобуки Авано",
+    "animeName": "Приоритет чудо-яйца"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 160,
+    "girlName": "Канаэ Кочо",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 153,
+    "girlName": "Фубуки",
+    "animeName": "Ванпанчмен"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 118,
+    "girlName": "Сенко",
+    "animeName": "Заботливая 800-летняя жена"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 207,
+    "girlName": "Имир",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 423,
+    "girlName": "Коё Озаки",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 38,
+    "girlName": "Кушина Узумаки",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 617,
+    "girlName": "Юко Нишигори",
+    "animeName": "Юри на льду"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 12,
+    "girlName": "Риас Гремори",
+    "animeName": "Старшая школа DxD"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 468,
+    "girlName": "Хонэ Анна",
+    "animeName": "Адская девочка"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 601,
+    "girlName": "Югири",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 556,
+    "girlName": "Изабелла",
+    "animeName": "Обещанный Неверленд"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 10,
+    "girlName": "Эсдес",
+    "animeName": "Убийца Акаме"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 163,
+    "girlName": "Канао Цуюри",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 182,
+    "girlName": "Очако Урарака",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 748,
+    "girlName": "Ан Оноя",
+    "animeName": "Повторная жизнь"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 626,
+    "girlName": "Эмилико",
+    "animeName": "Дом теней"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 306,
+    "girlName": "Селестия Люденберг",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 139,
+    "girlName": "Ния",
+    "animeName": "Гуррен-Лаганн"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 380,
+    "girlName": "Нана Хираги",
+    "animeName": "Бездарная Нана"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 50,
+    "girlName": "Цунаде",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 657,
+    "girlName": "Сатоми Мурано",
+    "animeName": "Паразит: Учение о жизни"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 72,
+    "girlName": "Тоука Киришима",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "65 - 128",
+    "worldRank": 57,
+    "girlName": "Джибрил",
+    "animeName": "Нет игры - нет жизни"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 783,
+    "girlName": "Бэнио Йономори",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 33,
+    "girlName": "Владилена Миризе",
+    "animeName": "Восемьдесят шесть"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 753,
+    "girlName": "Харука Котоура",
+    "animeName": "Котоура-сан"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 93,
+    "girlName": "Саша Браус",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 18,
+    "girlName": "Кёко Хори",
+    "animeName": "Хоримия"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 562,
+    "girlName": "Чидори Такаширо",
+    "animeName": "Связанные"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 269,
+    "girlName": "Тихиро Огино",
+    "animeName": "Унесенные призраками"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 110,
+    "girlName": "Каэдэ Адзусагава",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 900,
+    "girlName": "Анастасия Николаевна Романова",
+    "animeName": "Скитальцы"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 143,
+    "girlName": "Йосано Акико",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 777,
+    "girlName": "Саки Ханакаго",
+    "animeName": "Платиновый предел"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 314,
+    "girlName": "Луна",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 959,
+    "girlName": "Мики Макимура",
+    "animeName": "Человек-дьявол: Плакса"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 857,
+    "girlName": "Икумацу Нишики",
+    "animeName": "Гинтама"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 425,
+    "girlName": "Эрина Пендлтон",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 49,
+    "girlName": "Сиеста",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 576,
+    "girlName": "Сакура",
+    "animeName": "Не издевайся, Нагаторо!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 221,
+    "girlName": "Кагуя Ооцуцуки",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 387,
+    "girlName": "Тихиро Сэнгоку",
+    "animeName": "Кошечка из Сакурасо"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 114,
+    "girlName": "Руи Тачибана",
+    "animeName": "Домекано"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 106,
+    "girlName": "Даркнесс",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 392,
+    "girlName": "Нина Сугавара",
+    "animeName": "Сезон беспокойных дев"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 259,
+    "girlName": "Коната Изуми",
+    "animeName": "Счастливая звезда"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 360,
+    "girlName": "Юмэ",
+    "animeName": "Гримгал пепла и иллюзий"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 873,
+    "girlName": "Мио Китахара",
+    "animeName": "Мы ждём тебя летом"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 662,
+    "girlName": "Мисудзу Кадэнокодзи",
+    "animeName": "Здравствуй, мир!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 174,
+    "girlName": "Хина Амано",
+    "animeName": "Дитя погоды"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 294,
+    "girlName": "Оригами Тобиичи",
+    "animeName": "Рандеву с жизнью"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 442,
+    "girlName": "Рафиэль Эйнсворт Шираха",
+    "animeName": "Габриэль бросает школу"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 622,
+    "girlName": "Анна Либерт",
+    "animeName": "Монстр"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 61,
+    "girlName": "Юкино Юкиношита",
+    "animeName": "Розовая пора моей школьной жизни - сплошной обман"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 5,
+    "girlName": "02",
+    "animeName": "Милый во Франксе"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 358,
+    "girlName": "Кэтрин Уорд",
+    "animeName": "Ангел кровопролития"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 982,
+    "girlName": "Мэй",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 664,
+    "girlName": "Элизабет Томпсон",
+    "animeName": "Пожиратель душ"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 356,
+    "girlName": "Фуджиномия Неко",
+    "animeName": "Месть Масамунэ-куна"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 557,
+    "girlName": "Ами Мидзуно",
+    "animeName": "Сейлор Мун"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 649,
+    "girlName": "Куруми Эбисузава",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 473,
+    "girlName": "Хонока Маки",
+    "animeName": "Связанные"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 801,
+    "girlName": "Харуко Харухара",
+    "animeName": "Фури-кури"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 328,
+    "girlName": "Кикё Кушида",
+    "animeName": "Добро пожаловать в класс превосходства"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 526,
+    "girlName": "Хитока Ячи",
+    "animeName": "Волейбол!!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 69,
+    "girlName": "Лиза Лиза",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 74,
+    "girlName": "Тамаё",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 407,
+    "girlName": "Сатори Тамаба",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 711,
+    "girlName": "Надэсико Кашима",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 196,
+    "girlName": "Эру Читанда",
+    "animeName": "Хьёка: Тебе не уйти!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 875,
+    "girlName": "Аой Инуяма",
+    "animeName": "Лагерь на свежем воздухе"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 862,
+    "girlName": "Юки Ушимару",
+    "animeName": "Школьные няни"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 599,
+    "girlName": "Мэри Кикакуджо",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 856,
+    "girlName": "Нина Эйнштейн",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 946,
+    "girlName": "Нацумэ",
+    "animeName": "Дека-данс"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 586,
+    "girlName": "Юки Нагато",
+    "animeName": "Меланхолия Харухи Судзумии"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 941,
+    "girlName": "Ай Китора",
+    "animeName": "Импульс мира"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 470,
+    "girlName": "Рэнгэ Мияучи",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 637,
+    "girlName": "Хикари Хораки",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 493,
+    "girlName": "Терухаши Кокоми",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 359,
+    "girlName": "Ицуки Сумераги",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 788,
+    "girlName": "Чеза",
+    "animeName": "Волчий дождь"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 32,
+    "girlName": "Нами",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 245,
+    "girlName": "Усаги Цукино",
+    "animeName": "Сейлор Мун"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 393,
+    "girlName": "Момо Касивабара",
+    "animeName": "Домекано"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 638,
+    "girlName": "Каё Шинозаки",
+    "animeName": "Город, в котором меня нет"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 420,
+    "girlName": "Куренай Юхи",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 335,
+    "girlName": "Жрица",
+    "animeName": "Убийца гоблинов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 628,
+    "girlName": "Юкиджи",
+    "animeName": "Очень приятно, Бог"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 77,
+    "girlName": "Темари",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 229,
+    "girlName": "Асами Юки",
+    "animeName": "Я побрился. И приютил старшеклассницу"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 758,
+    "girlName": "Юри Вакаса",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 575,
+    "girlName": "Пай",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 23,
+    "girlName": "C.C",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 646,
+    "girlName": "Айка Фува",
+    "animeName": "Буря потерь"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 501,
+    "girlName": "Нефертари Виви",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 949,
+    "girlName": "Кацута Ханако",
+    "animeName": "Почувствуй ветер"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 964,
+    "girlName": "Саяка Мики",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 54,
+    "girlName": "Химико Тога",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 819,
+    "girlName": "Кагами Хираги",
+    "animeName": "Счастливая звезда"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 6,
+    "girlName": "Микаса Аккерман",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 125,
+    "girlName": "Шиина Маюри",
+    "animeName": "Врата Штейна"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 785,
+    "girlName": "Мию",
+    "animeName": "Она и её кот"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 766,
+    "girlName": "Миюки Такара",
+    "animeName": "Счастливая звезда"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 379,
+    "girlName": "Хина Тачибана",
+    "animeName": "Домекано"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 701,
+    "girlName": "Бискет Крюгер",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 607,
+    "girlName": "Каори Ширасаки",
+    "animeName": "Арифурэта: Сильнейший ремесленник в мире"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 519,
+    "girlName": "Мэнчи",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 350,
+    "girlName": "Корнелия Британская",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 351,
+    "girlName": "Андросси Джахард",
+    "animeName": "Башня Бога"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 349,
+    "girlName": "Адагаки Аки",
+    "animeName": "Месть Масамунэ"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 977,
+    "girlName": "Сиэми Морияма",
+    "animeName": "Синий экзорцист"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 336,
+    "girlName": "Кэми Уцушими",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 145,
+    "girlName": "Химэко Инаба",
+    "animeName": "Связь сердец"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 714,
+    "girlName": "Мария Кэмпбелл",
+    "animeName": "Моя реинкарнация в отомэ-игре в качестве главной злодейки"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 438,
+    "girlName": "Ичиё Хигучи",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 620,
+    "girlName": "Минори Кушиэда",
+    "animeName": "ТораДора!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 743,
+    "girlName": "Чифую Химэки",
+    "animeName": "Супербои в повседневности"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 158,
+    "girlName": "Ичика Накано",
+    "animeName": "Пять невест"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 537,
+    "girlName": "Рома Хойто",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 545,
+    "girlName": "Эбигейл Джонс",
+    "animeName": "Великий притворщик"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 83,
+    "girlName": "Юи Хирасава",
+    "animeName": "К-он!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 630,
+    "girlName": "Алиша Дифда",
+    "animeName": "Сказания Зестирии"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 517,
+    "girlName": "Рин Сима",
+    "animeName": "Лагерь на свежем воздухе"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 36,
+    "girlName": "Канроджи Мицури",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 424,
+    "girlName": "Хва Рьюн",
+    "animeName": "Башня Бога"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 101,
+    "girlName": "Наруми Момосэ",
+    "animeName": "Так сложно любить отаку"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 140,
+    "girlName": "Чиюки",
+    "animeName": "Парад смерти"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 27,
+    "girlName": "Альбедо",
+    "animeName": "Повелитель"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 47,
+    "girlName": "Ехидна",
+    "animeName": "Re:Zero"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 604,
+    "girlName": "Сара Голд",
+    "animeName": "Кафе из другого мира"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 560,
+    "girlName": "Лин",
+    "animeName": "В другом мире со смартфоном"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 765,
+    "girlName": "Ташиги",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 383,
+    "girlName": "Ханако Коянаги",
+    "animeName": "Так сложно любить отаку"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 805,
+    "girlName": "Мако Рейдзей",
+    "animeName": "Девушки и танки"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 849,
+    "girlName": "Эна Сайто",
+    "animeName": "Лагерь на свежем воздухе"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 236,
+    "girlName": "Мачи Комачине",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 650,
+    "girlName": "Шизуку Ханаока",
+    "animeName": "Сквозь бальный зал"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 938,
+    "girlName": "Нуй Харимэ",
+    "animeName": "Убей или умри!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 450,
+    "girlName": "Флэр Аргранд Джиорал",
+    "animeName": "Маг-целитель: Новый старт"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 863,
+    "girlName": "Когицунэ",
+    "animeName": "Тетрадь дружбы Нацумэ"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 76,
+    "girlName": "Артурия Пендрагон",
+    "animeName": "Судьба/Начало"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 776,
+    "girlName": "Яги",
+    "animeName": "Я - Сакамото, а что?"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 492,
+    "girlName": "Футаба Игараши",
+    "animeName": "Мой семпай раздражает!"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 892,
+    "girlName": "Михо Адзуки",
+    "animeName": "Бакуман"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 316,
+    "girlName": "Юши Ёшикава",
+    "animeName": "Хоримия"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 90,
+    "girlName": "Айрисвиль фон Айнцберн",
+    "animeName": "Судьба/Начало"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 980,
+    "girlName": "Нано Синономэ",
+    "animeName": "Мелочи жизни"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 396,
+    "girlName": "Нарберал Гамма",
+    "animeName": "Повелитель"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 183,
+    "girlName": "Рейми Сугимото",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "129 - 256",
+    "worldRank": 496,
+    "girlName": "Кирюин Сацуки",
+    "animeName": "Убей или умри"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 751,
+    "girlName": "Юкари Акияма",
+    "animeName": "Девушки и танки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 439,
+    "girlName": "Мумэй",
+    "animeName": "Кабанери железной крепости"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 30,
+    "girlName": "Бишамонтен",
+    "animeName": "Бездомный бог"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 384,
+    "girlName": "Юи Сайкава",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 231,
+    "girlName": "Дерриер",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 800,
+    "girlName": "Тирико Цуруми",
+    "animeName": "Невиданный цветок"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 954,
+    "girlName": "Хром Докуро",
+    "animeName": "Учитель-мафиози Реборн"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 784,
+    "girlName": "Мияби Аидзава",
+    "animeName": "Крутой учитель Онидзука"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 764,
+    "girlName": "Рэна Кариу",
+    "animeName": "Повторная жизнь"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 376,
+    "girlName": "Анко Митараши",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 551,
+    "girlName": "Нацумэ Цучимикадо",
+    "animeName": "Токийские вороны"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 65,
+    "girlName": "Нино Накано",
+    "animeName": "Пять невест"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 128,
+    "girlName": "Ёцуба Накано",
+    "animeName": "Пять невест"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 569,
+    "girlName": "Сарада Учиха",
+    "animeName": "Боруто"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 126,
+    "girlName": "Рицуко Акаги",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 136,
+    "girlName": "Кирукиру Амо",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 151,
+    "girlName": "Ворона",
+    "animeName": "Дюрарара!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 838,
+    "girlName": "Хидэми Киношита",
+    "animeName": "Бтууум!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 960,
+    "girlName": "Кагомэ Хигураси",
+    "animeName": "Инуяша"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 173,
+    "girlName": "Эрина Накири",
+    "animeName": "Повар-боец Сома"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 191,
+    "girlName": "Мирелия Кью Мелромарк",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 921,
+    "girlName": "Мики Наоки",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 234,
+    "girlName": "Минэнэ Урю",
+    "animeName": "Дневник будущего"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1011,
+    "girlName": "Мина Хибино",
+    "animeName": "Озорная Такаги"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 218,
+    "girlName": "Тио Кларс",
+    "animeName": "Арифурэта: Сильнейший ремесленник в мире"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 486,
+    "girlName": "Кьёка Джиро",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 739,
+    "girlName": "Рэм",
+    "animeName": "Тетрадь смерти"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 529,
+    "girlName": "Накимэ",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 616,
+    "girlName": "Маюми Кисаки",
+    "animeName": "Сатана на подработке"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 408,
+    "girlName": "Мэш Кириелайт",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 770,
+    "girlName": "Саэко Танака",
+    "animeName": "Волейбол!!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 172,
+    "girlName": "Каттлея Бодлер",
+    "animeName": "Вайолет Эвергарден"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 972,
+    "girlName": "Шарлотта ЛинЛин",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 843,
+    "girlName": "Цубоми Таканэ",
+    "animeName": "Моб Психо 100"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 735,
+    "girlName": "Такако Чино",
+    "animeName": "Апельсин"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 772,
+    "girlName": "Минако Окукава",
+    "animeName": "Юри на льду"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 111,
+    "girlName": "Ирина Елавич",
+    "animeName": "Класс убийц"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 440,
+    "girlName": "Катарина Клаес",
+    "animeName": "Моя реинкарнация в отомэ-игре в качестве главной злодейки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 292,
+    "girlName": "Хонами Ичиносе",
+    "animeName": "Добро пожаловать в класс превосходства"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 186,
+    "girlName": "Маки Одзэ",
+    "animeName": "Пламенная бригада пожарных"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 456,
+    "girlName": "Элси Кримсон",
+    "animeName": "Нулевой Эдем"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 104,
+    "girlName": "Софи Хаттер",
+    "animeName": "Ходячий замок"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 702,
+    "girlName": "Ребекка",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1021,
+    "girlName": "Момо Кавамото",
+    "animeName": "Мартовский лев"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 516,
+    "girlName": "Хильдегарда",
+    "animeName": "Вельзепуз"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 459,
+    "girlName": "Сьюзи Кью",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 918,
+    "girlName": "Кейт Шедоу",
+    "animeName": "Дом теней"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 134,
+    "girlName": "Анна Асакура",
+    "animeName": "Шаман Кинг"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 699,
+    "girlName": "Нацуми Куробэ",
+    "animeName": "Мой семпай раздражает!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 478,
+    "girlName": "Сакиэ Сато",
+    "animeName": "Деми-тян хочет рассказать"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 713,
+    "girlName": "Тору Хонда",
+    "animeName": "Корзинка фруктов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 658,
+    "girlName": "Котоми Ичиносэ",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 357,
+    "girlName": "Танизаки Наоми",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 583,
+    "girlName": "Холли Куджо",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 824,
+    "girlName": "Желтый алмаз",
+    "animeName": "Страна самоцветов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 471,
+    "girlName": "Жанна Тао",
+    "animeName": "Шаман Кинг"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 115,
+    "girlName": "Чиса Котэгава",
+    "animeName": "Необъятный океан"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 344,
+    "girlName": "Ханаби Ясураока",
+    "animeName": "Тайные желания отвергнутых"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 465,
+    "girlName": "Чисэ Хатори",
+    "animeName": "Невеста чародея"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 454,
+    "girlName": "Хана Исудзу",
+    "animeName": "Девушки и танки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 786,
+    "girlName": "Акацуки",
+    "animeName": "Логин Горизонт"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 189,
+    "girlName": "Конэко Тодзё",
+    "animeName": "Старшая школа DxD"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 813,
+    "girlName": "Ильва",
+    "animeName": "Сага о Винланде"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 935,
+    "girlName": "Май Минаками",
+    "animeName": "Мелочи жизни"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 461,
+    "girlName": "Мучен Су",
+    "animeName": "Аватар короля"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 826,
+    "girlName": "Михо Нисидзуми",
+    "animeName": "Девушки и танки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 709,
+    "girlName": "Маю Арита",
+    "animeName": "Парад смерти"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 42,
+    "girlName": "Акено Химеджима",
+    "animeName": "Старшая школа DxD"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 488,
+    "girlName": "Саки Никайдо",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 520,
+    "girlName": "Тору Хагакурэ",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 874,
+    "girlName": "Никайдо",
+    "animeName": "Дорохедоро"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 839,
+    "girlName": "Мицуба Окита",
+    "animeName": "Гинтама"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 823,
+    "girlName": "Хитоха Хонго",
+    "animeName": "Сезон беспокойных дев"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 369,
+    "girlName": "Хината Тачибана",
+    "animeName": "Токийские мстители"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 652,
+    "girlName": "Ай Мидзуно",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 697,
+    "girlName": "Комари Кошигая",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 869,
+    "girlName": "Макия",
+    "animeName": "Укрась прощальное утро цветами обещания"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 375,
+    "girlName": "Хинами Фуегучи",
+    "animeName": "Токийский гуль"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 324,
+    "girlName": "Петра Рал",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 85,
+    "girlName": "Боа Хенкок",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 24,
+    "girlName": "Мику Накано",
+    "animeName": "Пять невест"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 564,
+    "girlName": "Мику",
+    "animeName": "Милый во Франксе"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 464,
+    "girlName": "Кисара Тэндо",
+    "animeName": "Чёрная пуля"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 124,
+    "girlName": "Нагиса Нацунаги",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 790,
+    "girlName": "Хомура Когецу",
+    "animeName": "Нулевой Эдем"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 220,
+    "girlName": "Аямэ Коджо",
+    "animeName": "Скучный мир, где не существует самой идеи похабных шуток"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 930,
+    "girlName": "Мезато Ичи",
+    "animeName": "Моб Психо 100"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 509,
+    "girlName": "Петра Лейте",
+    "animeName": "Re:Zero"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 342,
+    "girlName": "Адзуса Накано",
+    "animeName": "К-он!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 682,
+    "girlName": "Асака Маяма",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 531,
+    "girlName": "Мисаки Камигуса",
+    "animeName": "Кошечка из Сакурасо"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 895,
+    "girlName": "Мадока Эномото",
+    "animeName": "Повар-боец Сома"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 299,
+    "girlName": "Наока Уэно",
+    "animeName": "Форма голоса"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 506,
+    "girlName": "Чиё Сакура",
+    "animeName": "Ежемесячное сёдзё Нозаки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 655,
+    "girlName": "Хатоко Кушикава",
+    "animeName": "Супербои в повседневности"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 214,
+    "girlName": "Эрешкигаль",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 848,
+    "girlName": "Юри Макита",
+    "animeName": "Неудержимая юность"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 910,
+    "girlName": "Такегава Хотару",
+    "animeName": "В лес, где мерцают светлячки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 14,
+    "girlName": "Мегумин",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 43,
+    "girlName": "Энни Леонхарт",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 275,
+    "girlName": "Сакура Огами",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 157,
+    "girlName": "Орихиме Иноуэ",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1019,
+    "girlName": "Ясминка Антоненко",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 527,
+    "girlName": "Ясиро Нэнэ",
+    "animeName": "Туалетный мальчик Ханако"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 820,
+    "girlName": "Элис",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 530,
+    "girlName": "Тия Харрибел",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 116,
+    "girlName": "Каллен Кодзуки",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 227,
+    "girlName": "Сидзуку Мидзутани",
+    "animeName": "Монстр за соседней партой"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 11,
+    "girlName": "Акаме",
+    "animeName": "Убийца Акаме"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 433,
+    "girlName": "Черноснежка",
+    "animeName": "Ускоренный мир"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 462,
+    "girlName": "Азия Ардженто",
+    "animeName": "Старшая школа DxD"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 348,
+    "girlName": "Шарлотта Арисака Андерсон",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 627,
+    "girlName": "Янаги Фуюми",
+    "animeName": "Кровавый парень"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 561,
+    "girlName": "Каэру",
+    "animeName": "ID: Вторжение"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 20,
+    "girlName": "Нобара Кугисаки",
+    "animeName": "Магическая битва"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 444,
+    "girlName": "Иу Синдо",
+    "animeName": "Я стою на миллионах трупов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 178,
+    "girlName": "Томоэ Кога",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 352,
+    "girlName": "Сумирэко Сансёкуин",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 195,
+    "girlName": "Ичиго",
+    "animeName": "Милый во Франксе"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 472,
+    "girlName": "Юкако Ямагиши",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 827,
+    "girlName": "Сацуки Сасахара",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 683,
+    "girlName": "Виола",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 243,
+    "girlName": "Мина Ашидо",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 644,
+    "girlName": "Маки Гамо",
+    "animeName": "Не издевайся, Нагаторо!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 224,
+    "girlName": "Латифа Флюранца",
+    "animeName": "Великолепный парк Амаги"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 619,
+    "girlName": "Палм Сиберия",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1017,
+    "girlName": "Чичи",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 974,
+    "girlName": "Комуги",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 926,
+    "girlName": "Канако Курусу",
+    "animeName": "Ну не может моя сестрёнка быть такой милой"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 309,
+    "girlName": "Аямэ Химуро",
+    "animeName": "Влюблённые учёные и научное доказательство любви"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 475,
+    "girlName": "Сая Эндо",
+    "animeName": "Магазинчик сладостей"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 397,
+    "girlName": "Кокоро",
+    "animeName": "Милый во Франксе"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 988,
+    "girlName": "Хината Кавамото",
+    "animeName": "Мартовский лев"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1000,
+    "girlName": "Аматори Чика",
+    "animeName": "Импульс мира"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 810,
+    "girlName": "Урара Кавашима",
+    "animeName": "Повар-боец Сома"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 679,
+    "girlName": "Юкари Мияко",
+    "animeName": "Ежемесячное сёдзё Нозаки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 44,
+    "girlName": "Ханджи Зоэ",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 672,
+    "girlName": "Черная Мария",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 413,
+    "girlName": "Триш Уна",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 51,
+    "girlName": "Сузуне Хорикита",
+    "animeName": "Добро пожаловать в класс превосходства"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 750,
+    "girlName": "Химико",
+    "animeName": "Бтууум!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 817,
+    "girlName": "Чинацу Йошикава",
+    "animeName": "Лилии на ветру"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 318,
+    "girlName": "Ами Кавашима",
+    "animeName": "ТораДора!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 554,
+    "girlName": "Мэно Хистория",
+    "animeName": "Непризнанный школой владыка демонов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 329,
+    "girlName": "Элизабет",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 405,
+    "girlName": "Обычная девушка",
+    "animeName": "Акудама Драйв"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 416,
+    "girlName": "Мэри",
+    "animeName": "Гримгал пепла и иллюзий"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 28,
+    "girlName": "Рио Футаба",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 333,
+    "girlName": "Ванесса Энотека",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 767,
+    "girlName": "Кана Иджима",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 452,
+    "girlName": "Нанако Когурэ",
+    "animeName": "Ремейк нашей жизни"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 894,
+    "girlName": "Маюра Момоучи",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 804,
+    "girlName": "Нагиса Фурукава",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 505,
+    "girlName": "Клаудия Вайсманн",
+    "animeName": "Проект Кей"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 811,
+    "girlName": "Аюми Шинозаки",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 543,
+    "girlName": "Аой Асахинам",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 896,
+    "girlName": "Суи Немури",
+    "animeName": "Чудачество любви не помеха!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 674,
+    "girlName": "Акари Синохара",
+    "animeName": "5 сантиметров в секунду"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 313,
+    "girlName": "Кага Коко",
+    "animeName": "Золотая пора"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 19,
+    "girlName": "Шинобу Кочо",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 678,
+    "girlName": "Нана Эбина",
+    "animeName": "Двуличная сестренка Умару!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 363,
+    "girlName": "Мей Теруми",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 690,
+    "girlName": "Сачико Фудзинума",
+    "animeName": "Город, в котором меня нет"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 651,
+    "girlName": "Акари Аказа",
+    "animeName": "Лилии на ветру"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 868,
+    "girlName": "Сидзуру Накацу",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 976,
+    "girlName": "Аки Микагэ",
+    "animeName": "Серебряная ложка"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 70,
+    "girlName": "Ятогами Тока",
+    "animeName": "Рандеву с жизнью"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 296,
+    "girlName": "Ики Хиёри",
+    "animeName": "Бездомный бог"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 368,
+    "girlName": "Широ",
+    "animeName": "Страна чудес смертников"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 549,
+    "girlName": "Сакура Минамото",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 738,
+    "girlName": "Аканэ Цунэмори",
+    "animeName": "Психопаспорт"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 648,
+    "girlName": "Саори Такэбэ",
+    "animeName": "Девушки и танки"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 659,
+    "girlName": "Сидури",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 449,
+    "girlName": "Анна Кушина",
+    "animeName": "Проект Кей"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 436,
+    "girlName": "Юрико Хори",
+    "animeName": "Хоримия"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 46,
+    "girlName": "Шиноа Хираги",
+    "animeName": "Последний Серафим"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 263,
+    "girlName": "Хина Ханэтати",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 308,
+    "girlName": "Санаэ Эбато",
+    "animeName": "Тайные желания отвергнутых"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 21,
+    "girlName": "Йоруичи Шихоин",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 789,
+    "girlName": "Юка Токитатэ",
+    "animeName": "Я стою на миллионах трупов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 634,
+    "girlName": "Лайла",
+    "animeName": "Сказания Зестирии"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 256,
+    "girlName": "Саки Ханадзима",
+    "animeName": "Корзинка фруктов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 487,
+    "girlName": "Эритроцит AE-3803",
+    "animeName": "Клетки за работой"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 414,
+    "girlName": "Санджоуно Харухиме",
+    "animeName": "Может, я встречу тебя в подземелье?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 303,
+    "girlName": "Айрис",
+    "animeName": "Пламенная бригада пожарных"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 726,
+    "girlName": "Джунко Конно",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 432,
+    "girlName": "Сакура Акино",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 907,
+    "girlName": "Кадзуса Онодэра",
+    "animeName": "Сезон беспокойных дев"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 724,
+    "girlName": "Аюми Отосака",
+    "animeName": "Шарлотта"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 291,
+    "girlName": "Саша Некрон",
+    "animeName": "Непризнанный школой король демонов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 484,
+    "girlName": "Сихору",
+    "animeName": "Гримгал пепла и иллюзий"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 794,
+    "girlName": "Ширахоши",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 541,
+    "girlName": "Анна",
+    "animeName": "Сага о Винланде"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 754,
+    "girlName": "Алетта",
+    "animeName": "Кафе из другого мира"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 96,
+    "girlName": "Эрза Скарлет",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 858,
+    "girlName": "Юмехара Чиё",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 479,
+    "girlName": "Айри Катагири",
+    "animeName": "Город, в котором меня нет"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 338,
+    "girlName": "Джувия Локсар",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 635,
+    "girlName": "Юнан",
+    "animeName": "Маги: Лабиринт волшебства"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 213,
+    "girlName": "Джунко Эношима",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 997,
+    "girlName": "Юи Шишидо",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 271,
+    "girlName": "Рика Кавай",
+    "animeName": "Приоритет чудо-яйца"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 572,
+    "girlName": "Хотару Ичиджо",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 768,
+    "girlName": "Сакура Нанаминэ",
+    "animeName": "Туалетный мальчик Ханако"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 730,
+    "girlName": "Суйгинто",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 458,
+    "girlName": "Надэсико Кагамихара",
+    "animeName": "Лагерь на свежем воздухе"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 142,
+    "girlName": "Линали Ли",
+    "animeName": "Ди Грэй-мен"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 852,
+    "girlName": "Тиюри Курасима",
+    "animeName": "Ускоренный мир"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 927,
+    "girlName": "Мисти",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 833,
+    "girlName": "Нацуми Кошигая",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 791,
+    "girlName": "Юи Кирияма",
+    "animeName": "Связь сердец"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 55,
+    "girlName": "Конан",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 584,
+    "girlName": "Эльза Силхеска",
+    "animeName": "В другом мире со смартфоном"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 623,
+    "girlName": "Эндзю Аихара",
+    "animeName": "Чёрная пуля"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 120,
+    "girlName": "Ноэль Сильва",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 355,
+    "girlName": "Румия Тингел",
+    "animeName": "Хроники Акаши"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 872,
+    "girlName": "Ринко Ямато",
+    "animeName": "Моя история!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 289,
+    "girlName": "Мико Ёцуя",
+    "animeName": "Девочка, которая видит это"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 710,
+    "girlName": "Минако Айно",
+    "animeName": "Сейлор Мун"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 712,
+    "girlName": "Кономи Фуджимия",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 720,
+    "girlName": "Химари Таканаши",
+    "animeName": "Деми-тян хочет рассказать"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 853,
+    "girlName": "Юки Кусакабэ",
+    "animeName": "Деми-тян хочет рассказать"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 422,
+    "girlName": "Саюми Таканаши",
+    "animeName": "Супербои в повседневности"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 469,
+    "girlName": "Саки Ватанабэ",
+    "animeName": "Из нового света"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 370,
+    "girlName": "Хакадзэ Кусарибэ",
+    "animeName": "Буря потерь"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 198,
+    "girlName": "Андзю Эмма",
+    "animeName": "Восемьдесят шесть"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 928,
+    "girlName": "Омохару Наканака",
+    "animeName": "У Коми проблемы с общением"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 979,
+    "girlName": "Кристел Кэцуно",
+    "animeName": "Гинтама"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 284,
+    "girlName": "Кая Миёши",
+    "animeName": "Бакуман"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 593,
+    "girlName": "Момо Сакурабара",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 156,
+    "girlName": "Мирай Курияма",
+    "animeName": "За гранью"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 162,
+    "girlName": "Юн-Юн",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 624,
+    "girlName": "Ариса Уотани",
+    "animeName": "Корзинка фруктов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 963,
+    "girlName": "Доун",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 317,
+    "girlName": "Сисили фон Клод",
+    "animeName": "Внук мудреца"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 745,
+    "girlName": "Нацуки Моги",
+    "animeName": "Инициал Ди"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1008,
+    "girlName": "Ботан",
+    "animeName": "Отчёт о буйстве духов"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 673,
+    "girlName": "Маширо Мицуминэ",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 695,
+    "girlName": "Ичика Такацуки",
+    "animeName": "Мы ждём тебя летом"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 377,
+    "girlName": "Юри Накамура",
+    "animeName": "Ангельские ритмы"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 298,
+    "girlName": "Нона",
+    "animeName": "Парад смерти"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 494,
+    "girlName": "Момоэ Саваки",
+    "animeName": "Приоритет чудо-яйца"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 410,
+    "girlName": "Артемида",
+    "animeName": "Может, я встречу тебя в подземелье?"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 550,
+    "girlName": "Михо Амаката",
+    "animeName": "Вольный стиль!"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 759,
+    "girlName": "Нахоси Инами",
+    "animeName": "ID: Вторжение"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 82,
+    "girlName": "Люси Хартфилия",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 304,
+    "girlName": "Хонока Савада",
+    "animeName": "Хоримия"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 948,
+    "girlName": "Лулу Белл",
+    "animeName": "Ди Грэй-мен"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 757,
+    "girlName": "Рико Айда",
+    "animeName": "Баскетбол Куроко"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 508,
+    "girlName": "Идзуми Акадзава",
+    "animeName": "Иная"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 1005,
+    "girlName": "Милли Томпсон",
+    "animeName": "Триган"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 878,
+    "girlName": "Судзуэ Камбэ",
+    "animeName": "Богатый детектив. Баланс: Неограничен"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 580,
+    "girlName": "Канна Макино",
+    "animeName": "Магазинчик Тамако"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 589,
+    "girlName": "Чинами Ока",
+    "animeName": "Золотая пора"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 443,
+    "girlName": "Курэна Кукумила",
+    "animeName": "Восемьдесят шесть"
+  },
+  {
+    "tournamentRank": "257 - 512",
+    "worldRank": 500,
+    "girlName": "Киёко Шимизу",
+    "animeName": "Волейбол!!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 660,
+    "girlName": "Аня Альстрейм",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 58,
+    "girlName": "Пик Фингер",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 386,
+    "girlName": "Мегуми Тадокоро",
+    "animeName": "Повар-боец Сома"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 353,
+    "girlName": "Эмма Сано",
+    "animeName": "Токийские мстители"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 523,
+    "girlName": "Милли Ашфорд",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 361,
+    "girlName": "Адзуса",
+    "animeName": "Убивая слизней 300 лет, сама того не заметив, я достигла максимального уровня"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 485,
+    "girlName": "Токо Сакурай",
+    "animeName": "Мой семпай раздражает!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1001,
+    "girlName": "Крона",
+    "animeName": "Обещанный Неверленд"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 600,
+    "girlName": "Рёко Кадзи",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 654,
+    "girlName": "Пекора",
+    "animeName": "Убивая слизней 300 лет, сама того не заметив, я достигла максимального уровня"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 865,
+    "girlName": "Таэ Футаба",
+    "animeName": "Месть Масамунэ-куна"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 412,
+    "girlName": "Гин Акутагава",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 301,
+    "girlName": "Юэ",
+    "animeName": "Арифурэта: Сильнейший ремесленник в мире"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 215,
+    "girlName": "Аманэ Сузуха",
+    "animeName": "Врата Штейна"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 544,
+    "girlName": "Ринка Хаями",
+    "animeName": "Класс убийц"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 667,
+    "girlName": "Лисанна Штраусс",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 132,
+    "girlName": "Норико Сонодзаки",
+    "animeName": "Связанные"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 66,
+    "girlName": "Айла",
+    "animeName": "Пластиковые воспоминания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1014,
+    "girlName": "Сацуки Кусакабэ",
+    "animeName": "Мой сосед Тоторо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 429,
+    "girlName": "Саяка Майзоно",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 254,
+    "girlName": "Ана",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 841,
+    "girlName": "Ной",
+    "animeName": "Дорохедоро"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 499,
+    "girlName": "Амели Азазель",
+    "animeName": "Добро пожаловать в ад, Ирума!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 507,
+    "girlName": "Кайэ Таня",
+    "animeName": "Восемьдесят шесть"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 731,
+    "girlName": "Коноха Суэцуги",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 398,
+    "girlName": "Нейру Аонума",
+    "animeName": "Приоритет чудо-яйца"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 285,
+    "girlName": "Макио",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 166,
+    "girlName": "Рейчел Гарднер",
+    "animeName": "Ангел кровопролития"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 706,
+    "girlName": "Мияби Ито",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 792,
+    "girlName": "Котори Камбэ",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 806,
+    "girlName": "Харука Сайгуса",
+    "animeName": "Маленькие проказники!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 746,
+    "girlName": "Рика Фурудэ",
+    "animeName": "Когда плачут цикады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 217,
+    "girlName": "Кетцалькоатль",
+    "animeName": "Дракон-горничная госпожи Кобаяши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 643,
+    "girlName": "Химико Агари",
+    "animeName": "У Коми проблемы с общением"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 402,
+    "girlName": "Миу Амано",
+    "animeName": "Садистская смесь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 138,
+    "girlName": "Мила Бабичева",
+    "animeName": "Юри на льду"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 795,
+    "girlName": "Ульти",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 240,
+    "girlName": "Таня Дегуршаф",
+    "animeName": "Военная хроника маленькой девочки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 846,
+    "girlName": "Сатоко Ходзё",
+    "animeName": "Когда плачут цикады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 595,
+    "girlName": "Доктор",
+    "animeName": "Акудама Драйв"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 920,
+    "girlName": "Аянэ Яно",
+    "animeName": "Дотянуться до тебя"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 366,
+    "girlName": "Аканэ Минагава",
+    "animeName": "Тайные желания отвергнутых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 636,
+    "girlName": "Кириэ Мотоба",
+    "animeName": "Двуличная сестренка Умару!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 836,
+    "girlName": "Амелия Эйми Акечи Голди",
+    "animeName": "Непутёвый ученик в школе магии"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 510,
+    "girlName": "Джахи",
+    "animeName": "Джахи не будет отчаиваться!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 880,
+    "girlName": "Канна Танигава",
+    "animeName": "Мы ждём тебя летом"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 998,
+    "girlName": "Айрис",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 315,
+    "girlName": "Куромэ",
+    "animeName": "Убийца Акаме"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 25,
+    "girlName": "Рэм",
+    "animeName": "Re:Zero"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 419,
+    "girlName": "Сиа Хаулия",
+    "animeName": "Арифурэта: Сильнейший ремесленник в мире"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 597,
+    "girlName": "Футаба Йошика",
+    "animeName": "Неудержимая юность"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 831,
+    "girlName": "Чиаки Танимура",
+    "animeName": "Вельзепуз"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 906,
+    "girlName": "Мьюзика",
+    "animeName": "Обещанный Неверленд"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 427,
+    "girlName": "Миса Куробанэ",
+    "animeName": "Шарлотта"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1010,
+    "girlName": "Акари Кавамото",
+    "animeName": "Мартовский лев"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 525,
+    "girlName": "Малти Эс Мелромарк",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 911,
+    "girlName": "Санго",
+    "animeName": "Инуяша"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 773,
+    "girlName": "Хикари Таканаши",
+    "animeName": "Деми-тян хочет рассказать"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 756,
+    "girlName": "Лабилия Кристи",
+    "animeName": "Нулевой Эдем"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 547,
+    "girlName": "Куро",
+    "animeName": "Кафе из другого мира"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 850,
+    "girlName": "Кагари",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 431,
+    "girlName": "Кобэни Йономори",
+    "animeName": "Помолвлена с незнакомцем"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 855,
+    "girlName": "Тэвак",
+    "animeName": "Ди Грэй-мен"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 687,
+    "girlName": "Химавари Узумаки",
+    "animeName": "Боруто"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 592,
+    "girlName": "Ариса Кухоин",
+    "animeName": "Корона грешника"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 141,
+    "girlName": "Микуру Асахина",
+    "animeName": "Меланхолия Харухи Судзумии"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 891,
+    "girlName": "Рико",
+    "animeName": "Созданный в бездне"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 642,
+    "girlName": "Рё Фудзибаяши",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 52,
+    "girlName": "Аманэ Миса",
+    "animeName": "Тетрадь смерти"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 247,
+    "girlName": "Аллука Золдик",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 524,
+    "girlName": "Микото Аска",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 17,
+    "girlName": "Юки Асуна",
+    "animeName": "Мастера Меча Онлайн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 373,
+    "girlName": "Жоу Тан",
+    "animeName": "Аватар короля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 945,
+    "girlName": "Патришия Томпсон",
+    "animeName": "Пожиратель душ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 665,
+    "girlName": "Хикари Конго",
+    "animeName": "Двуличная сестренка Умару!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 389,
+    "girlName": "Алмаз",
+    "animeName": "Страна самоцветов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 975,
+    "girlName": "Маю Сузумото",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 334,
+    "girlName": "Урара Шираиши",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 933,
+    "girlName": "Чидл Йоркшир",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 990,
+    "girlName": "Хинаичиго",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 295,
+    "girlName": "Сидзуэ Идзава",
+    "animeName": "О моём перерождении в слизь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 728,
+    "girlName": "Кайвай Ёшино",
+    "animeName": "Месть Масамунэ-куна"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 733,
+    "girlName": "Юдзуки Сэо",
+    "animeName": "Ежемесячное сёдзё Нозаки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 364,
+    "girlName": "Леди Гора",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 98,
+    "girlName": "Хинацуру",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 146,
+    "girlName": "Рей Хино",
+    "animeName": "Сейлор Мун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 426,
+    "girlName": "Каска",
+    "animeName": "Берсерк"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 914,
+    "girlName": "Юрико Аоки",
+    "animeName": "Бакуман"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 893,
+    "girlName": "Канами Исидзаки",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 917,
+    "girlName": "Юи Фунами",
+    "animeName": "Лилии на ветру"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 775,
+    "girlName": "Перона",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 942,
+    "girlName": "Сара Криспино",
+    "animeName": "Юри на льду"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 117,
+    "girlName": "Хаясе Нагаторо",
+    "animeName": "Не издевайся, Нагаторо!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 840,
+    "girlName": "Майн",
+    "animeName": "Власть книжного червя"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 669,
+    "girlName": "Кетцалькоатль",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 822,
+    "girlName": "Сэри Авасима",
+    "animeName": "Проект Кей"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 631,
+    "girlName": "Леви МакГарден",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1,
+    "girlName": "Марин Китагава",
+    "animeName": "Эта фарфоровая кукла влюбилась"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 133,
+    "girlName": "Мари Илластриэс Макинами",
+    "animeName": "Евангелион"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 91,
+    "girlName": "Фосфофиллит",
+    "animeName": "Страна самоцветов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 48,
+    "girlName": "Судьба",
+    "animeName": "Такт Опус. Судьба"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 137,
+    "girlName": "Широ",
+    "animeName": "Заботливая 800-летняя жена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 807,
+    "girlName": "Мичиру Инукай",
+    "animeName": "Бездарная Нана"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 421,
+    "girlName": "Мерлин",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 503,
+    "girlName": "Виньетта Эйприл Цукиносэ",
+    "animeName": "Габриэль бросает школу"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 532,
+    "girlName": "Мицуба Сангу",
+    "animeName": "Последний Серафим"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 916,
+    "girlName": "Аяно Сугиура",
+    "animeName": "Лилии на ветру"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 901,
+    "girlName": "Рен Ямаи",
+    "animeName": "У Коми проблемы с общением"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 491,
+    "girlName": "Ивилай",
+    "animeName": "Повелитель"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 330,
+    "girlName": "Фрида Рейсс",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 447,
+    "girlName": "Нана",
+    "animeName": "Милый во Франксе"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 771,
+    "girlName": "Мито",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 255,
+    "girlName": "Винсмок Рейджу",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 704,
+    "girlName": "Томоко Номура",
+    "animeName": "Крутой учитель Онидзука"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1009,
+    "girlName": "Ланч",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 588,
+    "girlName": "Кэй Сидо",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 952,
+    "girlName": "Хару",
+    "animeName": "Выдающиеся звери"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 598,
+    "girlName": "Оливия Мира Армстронг",
+    "animeName": "Стальной алхимик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 460,
+    "girlName": "Норико Камомэбата",
+    "animeName": "Тайные желания отвергнутых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 290,
+    "girlName": "Май Зенин",
+    "animeName": "Магическая битва"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 347,
+    "girlName": "Стефани Дола",
+    "animeName": "Нет игры - нет жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 406,
+    "girlName": "Карин",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 715,
+    "girlName": "Мотоко Минагава",
+    "animeName": "Корзинка фруктов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 762,
+    "girlName": "Эмма",
+    "animeName": "Агент времени"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 779,
+    "girlName": "Мамими Самэдзима",
+    "animeName": "Фури-кури"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 737,
+    "girlName": "Рейко Миками",
+    "animeName": "Иная"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 99,
+    "girlName": "Арису Сакаянаги",
+    "animeName": "Добро пожаловать в класс превосходства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 981,
+    "girlName": "Элиада",
+    "animeName": "Ди Грэй-мен"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 744,
+    "girlName": "Идзумо Камики",
+    "animeName": "Синий экзорцист"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 967,
+    "girlName": "Мирай Онодзава",
+    "animeName": "Токийское восьмибалльное"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 923,
+    "girlName": "Кёко Сакура",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 934,
+    "girlName": "Цукаса Хираги",
+    "animeName": "Счастливая звезда"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 625,
+    "girlName": "Мора Честер",
+    "animeName": "Герои шестицветия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 332,
+    "girlName": "Нанака Котэгава",
+    "animeName": "Необъятный океан"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 885,
+    "girlName": "Елизавета Икс",
+    "animeName": "Добро пожаловать в ад, Ирума!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 587,
+    "girlName": "Ария Холмс Канзаки",
+    "animeName": "Ария по прозвищу Алая Пуля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 135,
+    "girlName": "Уинри Рокбелл",
+    "animeName": "Стальной алхимик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 268,
+    "girlName": "Мадока Канамэ",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 571,
+    "girlName": "Тука Луна Марса",
+    "animeName": "Врата: Там бьются наши воины"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 415,
+    "girlName": "Мики Каваи",
+    "animeName": "Форма голоса"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 983,
+    "girlName": "Манами Тамура",
+    "animeName": "Ну не может моя сестрёнка быть такой милой"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 171,
+    "girlName": "Ханаби Хьюга",
+    "animeName": "Наруто"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 793,
+    "girlName": "Лючия Конохана",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 430,
+    "girlName": "Цую Асуи",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 490,
+    "girlName": "Ушивакамару",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 518,
+    "girlName": "Юна",
+    "animeName": "Би: Начало"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 799,
+    "girlName": "Комари Камикита",
+    "animeName": "Маленькие проказники!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 641,
+    "girlName": "Мадам Ред",
+    "animeName": "Темный дворецкий"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 675,
+    "girlName": "Каэдэ Кагаяма",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 86,
+    "girlName": "Нико Робин",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 902,
+    "girlName": "Лили",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 755,
+    "girlName": "Каэдэ Мидзуно",
+    "animeName": "Кошачьи прихоти"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 883,
+    "girlName": "Лили Хосикава",
+    "animeName": "Зомбилэнд-Сага"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 372,
+    "girlName": "Миюки Шиба",
+    "animeName": "Непутёвый ученик в школе магии"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 401,
+    "girlName": "Канна Камуй",
+    "animeName": "Дракон-горничная госпожи Кобаяши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 321,
+    "girlName": "Сакура Мато",
+    "animeName": "Судьба/Ночь схватки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 129,
+    "girlName": "Нанами Момозоно",
+    "animeName": "Очень приятно, Бог"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 692,
+    "girlName": "Нефрен Рук Инсания",
+    "animeName": "Конец человечества"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 286,
+    "girlName": "Кирари Момобами",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 999,
+    "girlName": "Кано Иэнага",
+    "animeName": "Золотое божество"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 985,
+    "girlName": "Юкари Нитани",
+    "animeName": "Брошенный кролик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 113,
+    "girlName": "Шоуко Коми",
+    "animeName": "У Коми проблемы с общением"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 367,
+    "girlName": "Фиро",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 293,
+    "girlName": "Момо Яойорозу",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 477,
+    "girlName": "Кохаку",
+    "animeName": "Доктор Стоун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 457,
+    "girlName": "Ицука Кендо",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 882,
+    "girlName": "Клара Валак",
+    "animeName": "Добро пожаловать в ад, Ирума!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 740,
+    "girlName": "Елена",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 161,
+    "girlName": "Анна Нишикономия",
+    "animeName": "Скучный мир, где не существует самой идеи похабных шуток"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 670,
+    "girlName": "Анри Сонохара",
+    "animeName": "Дюрарара!!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 825,
+    "girlName": "Пино",
+    "animeName": "Эрго Прокси"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 854,
+    "girlName": "Фуко Сорано",
+    "animeName": "Бездарная Нана"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 989,
+    "girlName": "Мера Чисато",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 385,
+    "girlName": "Нэнэ Одагири",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 995,
+    "girlName": "Ханада Никки",
+    "animeName": "Доктор Стоун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 288,
+    "girlName": "Суми Сакурасава",
+    "animeName": "Девушка на час"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 305,
+    "girlName": "Мисаки Аюдзава",
+    "animeName": "Президент студсовета - горничная!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1015,
+    "girlName": "Юко Айой",
+    "animeName": "Мелочи жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 904,
+    "girlName": "Айко Ивасэ",
+    "animeName": "Бакуман"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 127,
+    "girlName": "Алиса Цуберг",
+    "animeName": "Мастера Меча Онлайн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 741,
+    "girlName": "Белл Гидра",
+    "animeName": "Кровавый парень"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 78,
+    "girlName": "Сикра Сваллотейл",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 742,
+    "girlName": "Мари Кусакабэ",
+    "animeName": "Токийское восьмибалльное"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 169,
+    "girlName": "Нао Томори",
+    "animeName": "Шарлотта"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 888,
+    "girlName": "Аой Хёдо",
+    "animeName": "Президент-горничная"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 828,
+    "girlName": "Мэйко Оцука",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 582,
+    "girlName": "Михару Имай",
+    "animeName": "Девушка на час"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 39,
+    "girlName": "Рафталия",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 962,
+    "girlName": "Кёко Мачи",
+    "animeName": "Деми-тян хочет рассказать"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 179,
+    "girlName": "Аой Канзаки",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 578,
+    "girlName": "Ячиру Кусаджиши",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 747,
+    "girlName": "Мэй Тачибана",
+    "animeName": "Скажи: \"Я люблю тебя\""
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 320,
+    "girlName": "Вольбах",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 176,
+    "girlName": "Мико Иино",
+    "animeName": "Госпожа Кагуя: В любви, как на войне"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 381,
+    "girlName": "Ририка Момобами",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 498,
+    "girlName": "Мафую Хосикава",
+    "animeName": "Садистская смесь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1020,
+    "girlName": "Лилия Барабановская",
+    "animeName": "Юри на льду"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 559,
+    "girlName": "Габриэль Уайт Тэнма",
+    "animeName": "Габриэль бросает школу"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 956,
+    "girlName": "Хикагэ Мияучи",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 260,
+    "girlName": "Кимиэ Камата",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 341,
+    "girlName": "Канадэ Тачибана",
+    "animeName": "Ангельские ритмы"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 262,
+    "girlName": "Аямэ Ёмогава",
+    "animeName": "Кабанери железной крепости"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 568,
+    "girlName": "Рин Онигавара",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 814,
+    "girlName": "Казухо Мияучи",
+    "animeName": "Деревенская глубинка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 248,
+    "girlName": "Мереолеона Вермиллион",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 223,
+    "girlName": "Читогэ Кирисаки",
+    "animeName": "Притворная любовь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 463,
+    "girlName": "Масами Ивасами",
+    "animeName": "Ангельские ритмы"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 237,
+    "girlName": "Виз",
+    "animeName": "Этот замечательный мир!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 354,
+    "girlName": "Немури Каяма",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 830,
+    "girlName": "Лили Хошина",
+    "animeName": "Би: Начало"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 331,
+    "girlName": "Коронне Дола",
+    "animeName": "Нет игры - нет жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 548,
+    "girlName": "Красная королева",
+    "animeName": "Кафе из другого мира"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 63,
+    "girlName": "Мэй Мисаки",
+    "animeName": "Иная"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 606,
+    "girlName": "Тидзуру Осима",
+    "animeName": "Монстр за соседней партой"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 727,
+    "girlName": "Луиза Олкотт",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 565,
+    "girlName": "Кахо Хината",
+    "animeName": "Садистская смесь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 192,
+    "girlName": "Сацуки Момои",
+    "animeName": "Баскетбол Куроко"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 769,
+    "girlName": "Такаги",
+    "animeName": "Озорная Такаги"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 574,
+    "girlName": "Юико Куругая",
+    "animeName": "Маленькие проказники!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 222,
+    "girlName": "Каэдэ Каяно",
+    "animeName": "Класс убийц"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 391,
+    "girlName": "Ширли Фенетт",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 555,
+    "girlName": "Утано Тадано",
+    "animeName": "Двуличный братик Урамити"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 241,
+    "girlName": "Юмина Урнея Белфаст",
+    "animeName": "В другом мире со смартфоном"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 797,
+    "girlName": "Генриетта Пенроуз",
+    "animeName": "Восемьдесят шесть"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 992,
+    "girlName": "Курата Томэ",
+    "animeName": "Моб Психо 100"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 538,
+    "girlName": "Рэмон Ямано",
+    "animeName": "Мы ждём тебя летом"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 480,
+    "girlName": "Карла Йегер",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 877,
+    "girlName": "Тиаки Огаки",
+    "animeName": "Лагерь на свежем воздухе"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 897,
+    "girlName": "Эйко",
+    "animeName": "Добро пожаловать в ад, Ирума!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 621,
+    "girlName": "Вельзевул",
+    "animeName": "Убивая слизней 300 лет, сама того не заметив, я достигла максимального уровня"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 539,
+    "girlName": "Киноварь",
+    "animeName": "Страна самоцветов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 611,
+    "girlName": "Нахо Такамия",
+    "animeName": "Цитрус"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 112,
+    "girlName": "Рори Меркури",
+    "animeName": "Врата: Там бьются наши воины"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 844,
+    "girlName": "Рио Уэда",
+    "animeName": "Цитрус"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 721,
+    "girlName": "Мисаки Кирихара",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 71,
+    "girlName": "Джолин Куджо",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 311,
+    "girlName": "Рука Сарасина",
+    "animeName": "Девушка на час"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 346,
+    "girlName": "Нанами Аояма",
+    "animeName": "Кошечка из Сакурасо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 536,
+    "girlName": "Рури",
+    "animeName": "Доктор Стоун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 319,
+    "girlName": "Инори Юдзуриха",
+    "animeName": "Корона грешника"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 929,
+    "girlName": "Гильда",
+    "animeName": "Обещанный Неверленд"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 639,
+    "girlName": "Мэри Макбет",
+    "animeName": "Фронт кровавой блокады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 188,
+    "girlName": "Исузу Сенто",
+    "animeName": "Великолепный парк Амаги"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 228,
+    "girlName": "Мисаки Аюдзава",
+    "animeName": "Президент студсовета — горничная!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 585,
+    "girlName": "Шион Караномори",
+    "animeName": "Психопаспорт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 276,
+    "girlName": "Мэари Саотомэ",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 522,
+    "girlName": "Сатонэ Ситимия",
+    "animeName": "Чудачество любви не помеха!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 922,
+    "girlName": "Амариллис Асмодей",
+    "animeName": "Добро пожаловать в ад, Ирума!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 206,
+    "girlName": "Эйко Кавасэгава",
+    "animeName": "Ремейк нашей жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 130,
+    "girlName": "Миша Некрон",
+    "animeName": "Непризнанный школой владыка демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 80,
+    "girlName": "Сильфиетта",
+    "animeName": "Реинкарнация безработного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 168,
+    "girlName": "Леоне",
+    "animeName": "Убийца Акаме"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 602,
+    "girlName": "Сидзуку Мидзутани",
+    "animeName": "Монстр за соседней партой"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 705,
+    "girlName": "Косури Онигашира",
+    "animeName": "Скучный мир, где не существует самой идеи похабных шуток"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 694,
+    "girlName": "Фуко Ибуки",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 41,
+    "girlName": "Эрис Грейрат",
+    "animeName": "Реинкарнация безработного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 915,
+    "girlName": "Бриджит Эванс",
+    "animeName": "Ну не может моя сестрёнка быть такой милой"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 842,
+    "girlName": "Кики Сэйран",
+    "animeName": "Красноволосая принцесса Белоснежка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 633,
+    "girlName": "Ай Синдо",
+    "animeName": "За гранью"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 716,
+    "girlName": "Тихая Отори",
+    "animeName": "Перезапись"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 905,
+    "girlName": "Тихару Ёки",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 87,
+    "girlName": "Даки",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 950,
+    "girlName": "Чизуру Ёшида",
+    "animeName": "Дотянуться до тебя"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 382,
+    "girlName": "Шалтир Бладфоллен",
+    "animeName": "Повелитель"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 808,
+    "girlName": "Лара Тайбер",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 194,
+    "girlName": "Иллиясфиль фон Айнцберн",
+    "animeName": "Судьба/Начало"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 144,
+    "girlName": "Мираджейн Штраусс",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 903,
+    "girlName": "Анак Джахард",
+    "animeName": "Башня Бога"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 723,
+    "girlName": "Ноа Такигава",
+    "animeName": "Ямада-кун и семь ведьм"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 150,
+    "girlName": "Рам",
+    "animeName": "Re:Zero"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 279,
+    "girlName": "Дороро",
+    "animeName": "Дороро"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 834,
+    "girlName": "Наруко Андзё",
+    "animeName": "Невиданный цветок"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 671,
+    "girlName": "Чень Го",
+    "animeName": "Аватар короля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 608,
+    "girlName": "Индекс Либрорум Прохибиторум",
+    "animeName": "Индекс волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 940,
+    "girlName": "Нико Ольвия",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 912,
+    "girlName": "Сачико Шинозаки",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 680,
+    "girlName": "Цяо Лин",
+    "animeName": "Агент времени"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 251,
+    "girlName": "Томоко Куроки",
+    "animeName": "Не моя вина, что я не популярна!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 167,
+    "girlName": "Иштар",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 249,
+    "girlName": "Акеми Хомура",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 67,
+    "girlName": "Тацумаки",
+    "animeName": "Ванпанчмен"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 884,
+    "girlName": "Фоу",
+    "animeName": "Ди Грэй-мен"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 261,
+    "girlName": "Ицуки Накано",
+    "animeName": "Пять невест"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 394,
+    "girlName": "Эмилия Людовелл",
+    "animeName": "Непризнанный школой владыка демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 866,
+    "girlName": "Кирара Хабу",
+    "animeName": "Бездарная Нана"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 796,
+    "girlName": "Ай Энма",
+    "animeName": "Адская девочка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 647,
+    "girlName": "Габи Браун",
+    "animeName": "Атака титанов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 180,
+    "girlName": "Сора",
+    "animeName": "Заботливая 800-летняя жена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 937,
+    "girlName": "Мерил Страйф",
+    "animeName": "Триган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 689,
+    "girlName": "Ямурайха",
+    "animeName": "Маги: Лабиринт волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 966,
+    "girlName": "Коела Йошинага",
+    "animeName": "Би: Начало"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 558,
+    "girlName": "Эльма Дзёуи",
+    "animeName": "Дракон-горничная госпожи Кобаяши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 774,
+    "girlName": "Цукуё Инаба",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 802,
+    "girlName": "Коала",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 965,
+    "girlName": "Джули Макимото",
+    "animeName": "Вселенная Бакуган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 685,
+    "girlName": "Титус Алексий",
+    "animeName": "Маги: Лабиринт волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 955,
+    "girlName": "Бульма",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 629,
+    "girlName": "Ребекка Блюгарден",
+    "animeName": "Нулевой Эдем"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 899,
+    "girlName": "Миёко Сахара",
+    "animeName": "Форма голоса"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 257,
+    "girlName": "Джесси",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 609,
+    "girlName": "Айка Сакураномия",
+    "animeName": "Садистская смесь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 752,
+    "girlName": "Маргарет Лионес",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 553,
+    "girlName": "Лисия Айвиред",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 936,
+    "girlName": "Соусейсеки",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 815,
+    "girlName": "Джеверли Бонни",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 362,
+    "girlName": "Рио Накамура",
+    "animeName": "Класс убийц"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1002,
+    "girlName": "Санаэ Цукимото",
+    "animeName": "Озорная Такаги"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 688,
+    "girlName": "Изуми Кёртис",
+    "animeName": "Стальной алхимик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 953,
+    "girlName": "Анджела Блан",
+    "animeName": "Темный дворецкий"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 986,
+    "girlName": "Джессика Рэнди",
+    "animeName": "Банановая рыба"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 612,
+    "girlName": "Косаки Онодэра",
+    "animeName": "Притворная любовь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1018,
+    "girlName": "Казуми Кавачи",
+    "animeName": "Брошенный кролик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 889,
+    "girlName": "Мари Инуяшики",
+    "animeName": "Инуяшики"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 235,
+    "girlName": "Мицуки Насэ",
+    "animeName": "За гранью"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 890,
+    "girlName": "Кудрявка Номи",
+    "animeName": "Маленькие проказники!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 152,
+    "girlName": "Сьюзи Манбаваран",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 326,
+    "girlName": "Сикстина Фибель",
+    "animeName": "Хроники Акаши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 400,
+    "girlName": "Конно Юки",
+    "animeName": "Мастера Меча Онлайн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 13,
+    "girlName": "Незуко Камадо",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 566,
+    "girlName": "Друж",
+    "animeName": "Джахи не будет отчаиваться!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 835,
+    "girlName": "Кадзари Уихару",
+    "animeName": "Индекс волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 542,
+    "girlName": "Тина Спраут",
+    "animeName": "Чёрная пуля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 297,
+    "girlName": "Фути",
+    "animeName": "Коллекция Дзюндзи Ито"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 887,
+    "girlName": "Рин Кага",
+    "animeName": "Брошенный кролик"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 860,
+    "girlName": "Калифа",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 417,
+    "girlName": "Рулер",
+    "animeName": "Судьба/Апокриф"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 252,
+    "girlName": "Кумин Цуюри",
+    "animeName": "Чудачество любви не помеха!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1006,
+    "girlName": "Цугуми Шибата",
+    "animeName": "Адская девочка"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 165,
+    "girlName": "Кумоко",
+    "animeName": "Да, я паук, и что же?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 707,
+    "girlName": "Эвклаз",
+    "animeName": "Страна самоцветов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 409,
+    "girlName": "Пина Ко Лада",
+    "animeName": "Врата: Там бьются наши воины"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 280,
+    "girlName": "Чарми Паппитсон",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 780,
+    "girlName": "Сюка Мурао",
+    "animeName": "Неудержимая юность"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 932,
+    "girlName": "Серена",
+    "animeName": "Покемон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 913,
+    "girlName": "Гай Цуцугами",
+    "animeName": "Корона грешника"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 374,
+    "girlName": "Хотару Шидарэ",
+    "animeName": "Магазинчик сладостей"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 411,
+    "girlName": "Фрейя",
+    "animeName": "Может, я встречу тебя в подземелье?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 155,
+    "girlName": "Рэна Рюгу",
+    "animeName": "Когда плачут цикады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 676,
+    "girlName": "Сильфинфорд Тачибана",
+    "animeName": "Двуличная сестренка Умару!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 103,
+    "girlName": "Рецу Унохана",
+    "animeName": "Блич"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 919,
+    "girlName": "Элис Гехабит",
+    "animeName": "Вселенная Бакуган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 202,
+    "girlName": "Милим Нава",
+    "animeName": "О моём перерождении в слизь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 618,
+    "girlName": "Аой Хината",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 467,
+    "girlName": "Моржана",
+    "animeName": "Маги: Лабиринт волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 390,
+    "girlName": "Кобаяши",
+    "animeName": "Дракон-горничная госпожи Кобаяши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 105,
+    "girlName": "Ямато",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 209,
+    "girlName": "Хибана",
+    "animeName": "Пламенная бригада пожарных"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 573,
+    "girlName": "Ацуко Кагари",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 64,
+    "girlName": "Маширо Шина",
+    "animeName": "Кошечка из Сакурасо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 867,
+    "girlName": "Юрико Мифунэ",
+    "animeName": "Котоура-сан"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 266,
+    "girlName": "Foo Fighters",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 663,
+    "girlName": "Алисия",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 909,
+    "girlName": "Канаэ Сумида",
+    "animeName": "5 сантиметров в секунду"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 453,
+    "girlName": "Нана Шимура",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 845,
+    "girlName": "Мария Акидзуки",
+    "animeName": "Из нового света"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 803,
+    "girlName": "Отомэ Саотомэ",
+    "animeName": "Скучный мир, где не существует самой идеи похабных шуток"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 708,
+    "girlName": "Нашетания",
+    "animeName": "Герои шестицветия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 489,
+    "girlName": "Куроко Сирай",
+    "animeName": "Некий научный рейлган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 698,
+    "girlName": "Винсмок Сора",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 264,
+    "girlName": "Хрона",
+    "animeName": "Пожиратель душ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 666,
+    "girlName": "Яэ Коконоэ",
+    "animeName": "В другом мире со смартфоном"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 164,
+    "girlName": "Томиэ",
+    "animeName": "Коллекция Дзюндзи Ито"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 244,
+    "girlName": "Шейн Лафорет",
+    "animeName": "Шумиха!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 108,
+    "girlName": "Широ",
+    "animeName": "Нет игры - нет жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 925,
+    "girlName": "Морковка",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 343,
+    "girlName": "Фуби Касэ",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 968,
+    "girlName": "Куренай",
+    "animeName": "Дека-данс"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1007,
+    "girlName": "Химэ Гото",
+    "animeName": "Скрытые вещи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 684,
+    "girlName": "Вараби Ханасака",
+    "animeName": "Тирания вооружённых девушек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 435,
+    "girlName": "Сатэн Руико",
+    "animeName": "Некий научный рейлган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 434,
+    "girlName": "Кана Кимисима",
+    "animeName": "Паразит: Учение о жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 851,
+    "girlName": "Кёко Тошино",
+    "animeName": "Лилии на ветру"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 829,
+    "girlName": "Барбара",
+    "animeName": "Гримгал пепла и иллюзий"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 787,
+    "girlName": "Кохару Хондомати",
+    "animeName": "ID: Вторжение"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 958,
+    "girlName": "Хиёри Моритани",
+    "animeName": "Котоура-сан"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 107,
+    "girlName": "Саджуна Инуи",
+    "animeName": "Эта фарфоровая кукла влюбилась"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 761,
+    "girlName": "Мария Иномата",
+    "animeName": "Школьные няни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 991,
+    "girlName": "Инкармат",
+    "animeName": "Золотое божество"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 513,
+    "girlName": "Огава Юдзуриха",
+    "animeName": "Доктор Стоун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 876,
+    "girlName": "Сейко Шинохара",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 760,
+    "girlName": "Микото Аиура",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 939,
+    "girlName": "Ария",
+    "animeName": "Учитель-мафиози Реборн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 265,
+    "girlName": "Суйка",
+    "animeName": "Доктор Стоун"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 446,
+    "girlName": "Чинацу Хияма",
+    "animeName": "Сквозь бальный зал"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 951,
+    "girlName": "Акари Мамия",
+    "animeName": "Ария по прозвищу Алая Пуля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 403,
+    "girlName": "Жун Сунь",
+    "animeName": "Повседневная жизнь бессмертного короля"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 994,
+    "girlName": "Махиро Саэки",
+    "animeName": "Богатый детектив. Баланс: Неограничен"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 273,
+    "girlName": "Файв",
+    "animeName": "Эхо террора"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 378,
+    "girlName": "Кёка Идзуми",
+    "animeName": "Великий из бродячих псов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 395,
+    "girlName": "Шинка Нибутани",
+    "animeName": "Чудачество любви не помеха!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 778,
+    "girlName": "Лайка",
+    "animeName": "Убивая слизней 300 лет, сама того не заметив, я достигла максимального уровня"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 615,
+    "girlName": "Диана",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 924,
+    "girlName": "Эрмес Костелло",
+    "animeName": "Невероятные приключения ДжоДжо"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 686,
+    "girlName": "Урсула Каллистис",
+    "animeName": "Академия ведьмочек"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 725,
+    "girlName": "Эмилия Гальмар",
+    "animeName": "Ди Грэй-мэн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 339,
+    "girlName": "Айри Гото",
+    "animeName": "Я побрился. И приютил старшеклассницу"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1023,
+    "girlName": "Лакрима",
+    "animeName": "91 день"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 577,
+    "girlName": "Мио",
+    "animeName": "Дороро"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 812,
+    "girlName": "Рика Сонэдзаки",
+    "animeName": "Сезон беспокойных дев"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 281,
+    "girlName": "Шарлотта Пудинг",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 691,
+    "girlName": "Аямэ Сарутоби",
+    "animeName": "Гинтама"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 310,
+    "girlName": "Сума",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 847,
+    "girlName": "Аой Аканэ",
+    "animeName": "Туалетный мальчик Ханако"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 466,
+    "girlName": "Эна Ибарада",
+    "animeName": "Влюблённые учёные и научное доказательство любви"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 763,
+    "girlName": "Юки Минагава",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 978,
+    "girlName": "Асирпа",
+    "animeName": "Золотое божество"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 693,
+    "girlName": "Бейс",
+    "animeName": "Хантер х Хантер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 653,
+    "girlName": "Хана Юрикава",
+    "animeName": "Девочка, которая видит это"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 681,
+    "girlName": "Нао Садацука",
+    "animeName": "Повар-боец Сома"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 495,
+    "girlName": "Эмбер",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 881,
+    "girlName": "Мами Томоэ",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 177,
+    "girlName": "Тору",
+    "animeName": "Дракон-горничная госпожи Кобаяши"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 987,
+    "girlName": "Мива Ямамура",
+    "animeName": "Баракамон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 563,
+    "girlName": "Чиаки Шинода",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 441,
+    "girlName": "Фреми Спиддроу",
+    "animeName": "Герои шестицветия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1012,
+    "girlName": "Камадо Уэсита",
+    "animeName": "Дневник будущего"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 482,
+    "girlName": "Сусамару",
+    "animeName": "Клинок, рассекающий демонов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 388,
+    "girlName": "Сакура Ямаути",
+    "animeName": "Я хочу съесть твою поджелудочную"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 399,
+    "girlName": "Мимоза Вермиллион",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 540,
+    "girlName": "Венди Марвелл",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 312,
+    "girlName": "Саю Огивара",
+    "animeName": "Я побрился. И приютил старшеклассницу"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 451,
+    "girlName": "Руна Йомозуки",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 239,
+    "girlName": "Мион Сонодзаки",
+    "animeName": "Когда плачут цикады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 455,
+    "girlName": "Шарлотта Роузрей",
+    "animeName": "Чёрный клевер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1022,
+    "girlName": "Видель",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 837,
+    "girlName": "Мирия Харвент",
+    "animeName": "Шумиха!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 521,
+    "girlName": "Юкари Сакураги",
+    "animeName": "Иная"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 149,
+    "girlName": "Савако Куронума",
+    "animeName": "Достучаться до тебя"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 943,
+    "girlName": "Тамако Араи",
+    "animeName": "Баракамон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 961,
+    "girlName": "Кико Каянума",
+    "animeName": "Темнее чёрного"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 722,
+    "girlName": "Айна Куронума",
+    "animeName": "Я - Сакамото, а что?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 944,
+    "girlName": "Юка Мочида",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 201,
+    "girlName": "Йона",
+    "animeName": "Йона на заре"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 253,
+    "girlName": "Мака Албарн",
+    "animeName": "Пожиратель душ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 175,
+    "girlName": "Дадан",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 732,
+    "girlName": "Хината Хино",
+    "animeName": "Дневник будущего"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 859,
+    "girlName": "Элизабет Мидфорд",
+    "animeName": "Темный дворецкий"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 68,
+    "girlName": "Сана Суномия",
+    "animeName": "Не издевайся, Нагаторо!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 123,
+    "girlName": "Сецуна",
+    "animeName": "Маг-целитель: Новый старт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 445,
+    "girlName": "Нанналли Ламперуж",
+    "animeName": "Код Гиас"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 996,
+    "girlName": "Кёко Такимото",
+    "animeName": "Я хочу съесть твою поджелудочную"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 632,
+    "girlName": "Азуса Мурасака",
+    "animeName": "Апельсин"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 668,
+    "girlName": "Мидари Икишима",
+    "animeName": "Безумный азарт"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 211,
+    "girlName": "Рури Итигё",
+    "animeName": "Здравствуй, мир!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 886,
+    "girlName": "Мио Нишизоно",
+    "animeName": "Маленькие проказники!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 3,
+    "girlName": "Май Сакураджима",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 818,
+    "girlName": "Тидзуру Такано",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 246,
+    "girlName": "Ария Ситидзё",
+    "animeName": "Члены школьного совета"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 696,
+    "girlName": "Юлия Нигурэдо",
+    "animeName": "Девочка, которая видит это"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 947,
+    "girlName": "Барасуйсё",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 567,
+    "girlName": "Момоко Судо",
+    "animeName": "Сезон беспокойных дев"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 993,
+    "girlName": "Калифла",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 340,
+    "girlName": "Майка Сакураномия",
+    "animeName": "Садистская смесь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 528,
+    "girlName": "Чизуру Хиширо",
+    "animeName": "Повторная жизнь"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 971,
+    "girlName": "Нагиса Момоэ",
+    "animeName": "Волшебница Мадока Магика"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 908,
+    "girlName": "Чамо Россо",
+    "animeName": "Герои шестицветия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 219,
+    "girlName": "Доминик де Сад",
+    "animeName": "Мемуары Ванитаса"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 483,
+    "girlName": "Ясука Коэндзи",
+    "animeName": "Заботливая 800-летняя жена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 267,
+    "girlName": "Линза Силхеска",
+    "animeName": "В другом мире со смартфоном"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 736,
+    "girlName": "Фрида",
+    "animeName": "Власть книжного червя"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1004,
+    "girlName": "Шарлотта Смузи",
+    "animeName": "Ван Пис"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 418,
+    "girlName": "Мэй Хацуме",
+    "animeName": "Моя геройская академия"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 371,
+    "girlName": "Сатаникия МакДауэлл Курумидзава",
+    "animeName": "Габриэль бросает школу"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 703,
+    "girlName": "Нассэ",
+    "animeName": "Платиновый предел"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 781,
+    "girlName": "Юн",
+    "animeName": "Йона на заре"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 274,
+    "girlName": "Суисейсеки",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 497,
+    "girlName": "Томоё Канзаки",
+    "animeName": "Супербои в повседневности"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 864,
+    "girlName": "Шахерезада",
+    "animeName": "Маги: Лабиринт волшебства"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 337,
+    "girlName": "Мами Нанами",
+    "animeName": "Девушка на час"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 322,
+    "girlName": "Киригая Сугуха",
+    "animeName": "Мастера Меча Онлайн"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 200,
+    "girlName": "Мелти Кью Мелромарк",
+    "animeName": "Восхождение героя щита"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 816,
+    "girlName": "Мэгуми Сакура",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 749,
+    "girlName": "Судзуна Аюдзава",
+    "animeName": "Президент-горничная"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 277,
+    "girlName": "Нодока Тоёхама",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 656,
+    "girlName": "Мэйко Хомма",
+    "animeName": "Невиданный цветок"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 546,
+    "girlName": "Шион Сонодзаки",
+    "animeName": "Когда плачут цикады"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1024,
+    "girlName": "Мано",
+    "animeName": "Озорная Такаги"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1016,
+    "girlName": "Нару Котоиси",
+    "animeName": "Баракамон"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 535,
+    "girlName": "Токо Фукава",
+    "animeName": "Данганронпа: Школа отчаяния"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 226,
+    "girlName": "Томоё Сакагами",
+    "animeName": "Кланнад"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 570,
+    "girlName": "Миу Асихара",
+    "animeName": "Домекано"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 879,
+    "girlName": "Нико Нияма",
+    "animeName": "Кизнайвер"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 798,
+    "girlName": "Нана Хаясида",
+    "animeName": "Золотая пора"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 181,
+    "girlName": "Шуви Дола",
+    "animeName": "Нет игры - нет жизни"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 821,
+    "girlName": "Мидзуки Химэдзи",
+    "animeName": "Дурни, тесты, аватары"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 212,
+    "girlName": "Котори Ицука",
+    "animeName": "Рандеву с жизнью"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 645,
+    "girlName": "Юи Комори",
+    "animeName": "Дьявольские возлюбленные"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 232,
+    "girlName": "Ктолли Нота Сеньорис",
+    "animeName": "Конец человечества"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 594,
+    "girlName": "Луна Кусами",
+    "animeName": "Только ты любишь Великого Меня?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 307,
+    "girlName": "Гестия",
+    "animeName": "Может, я встречу тебя в подземелье?"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 88,
+    "girlName": "Юно Гасай",
+    "animeName": "Дневник будущего"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 782,
+    "girlName": "Гила",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 148,
+    "girlName": "Шоко Макинохара",
+    "animeName": "Этот глупый свин не понимает мечту девочки-зайки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 579,
+    "girlName": "Аяка Каминэ",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 238,
+    "girlName": "Дома Умару",
+    "animeName": "Двуличная сестренка Умару!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 511,
+    "girlName": "Хел",
+    "animeName": "Детектив уже мёртв"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 614,
+    "girlName": "Аюми Шинозаки",
+    "animeName": "Вечеринка мертвых"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 591,
+    "girlName": "Аясэ Арагаки",
+    "animeName": "Ну не может моя сестрёнка быть такой милой"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 534,
+    "girlName": "Кана Альберона",
+    "animeName": "Сказка о Хвосте Феи"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 832,
+    "girlName": "Кадзуко Хосогава",
+    "animeName": "Признания"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 1003,
+    "girlName": "Эми Акезава",
+    "animeName": "Боец Баки"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 283,
+    "girlName": "Юки Такэя",
+    "animeName": "Школьная жизнь!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 970,
+    "girlName": "Май",
+    "animeName": "Драконий жемчуг"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 734,
+    "girlName": "Мона Цукисиро",
+    "animeName": "Мой семпай раздражает!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 931,
+    "girlName": "Руно Мисаки",
+    "animeName": "Вселенная Бакуган"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 984,
+    "girlName": "Шинку",
+    "animeName": "Девы Розена"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 502,
+    "girlName": "Горгона",
+    "animeName": "Судьба/Великий приказ"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 718,
+    "girlName": "Йоши",
+    "animeName": "Не издевайся, Нагаторо!"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 203,
+    "girlName": "Цукаса Юдзаки",
+    "animeName": "Унеси меня на луну"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 610,
+    "girlName": "Иерихон",
+    "animeName": "Семь смертных грехов"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 159,
+    "girlName": "Адзуса Хамаока",
+    "animeName": "Необъятный океан"
+  },
+  {
+    "tournamentRank": "513 - 1024",
+    "worldRank": 809,
+    "girlName": "Икуно",
+    "animeName": "Милый во Франксе"
+  }
+]

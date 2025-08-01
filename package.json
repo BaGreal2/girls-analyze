@@ -1,0 +1,16 @@
+{
+  "name": "girls-analyze",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "python3 -m http.server 5174",
+    "watch": "npx tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
