@@ -38,24 +38,23 @@ const getCharacterImageURL = async (name: string): Promise<string | null> => {
   return null;
 };
 
+const getAnimeImageURL = async (name: string): Promise<string | null> => {
+  const response = await fetch(
+    `https://api.jikan.moe/v4/anime?q=${encodeURIComponent(name)}&limit=1`,
+  );
+  const data = await response.json();
+  if (data.data && data.data.length > 0) {
+    return data.data[0].images.jpg.image_url;
+  }
+  return null;
+};
+
 const packCircles = (
   width: number,
   height: number,
-  circles: {
-    name: string;
-    radius: number;
-    color: string;
-    x: number;
-    y: number;
-  }[],
-) => {
-  const placed: {
-    name: string;
-    radius: number;
-    color: string;
-    x: number;
-    y: number;
-  }[] = [];
+  circles: Circle[],
+): Circle[] => {
+  const placed: Circle[] = [];
 
   for (const circle of circles) {
     let placedSuccessfully = false;
@@ -72,14 +71,14 @@ const packCircles = (
         x += step
       ) {
         const overlaps = placed.some((c) => {
-          const dx = c.x - x;
-          const dy = c.y - y;
+          const dx = c.pos.x - x;
+          const dy = c.pos.y - y;
           const dist = Math.sqrt(dx * dx + dy * dy);
           return dist < c.radius + circle.radius;
         });
 
         if (!overlaps) {
-          placed.push({ ...circle, x, y });
+          placed.push({ ...circle, pos: new Vector2(x, y) });
           placedSuccessfully = true;
         }
       }
@@ -108,9 +107,52 @@ interface Anime {
 
 type AnimeMap = Record<string, Anime>;
 
+interface Circle extends Anime {
+  radius: number;
+  color: string;
+  pos: Vector2;
+  image?: HTMLImageElement;
+}
+
+const renderCircles = (circles: Circle[]) => {
+  circles.forEach((circle) => {
+    const { pos, radius, image } = circle;
+
+    if (image) {
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(pos.x, pos.y, radius, 0, Math.PI * 2);
+      ctx.closePath();
+      ctx.clip();
+
+      const iw = image.width;
+      const ih = image.height;
+      const side = Math.min(iw, ih);
+      const sx = (iw - side) / 2;
+      const sy = (ih - side) / 2;
+
+      ctx.drawImage(
+        image,
+        sx,
+        sy,
+        side,
+        side,
+        pos.x - radius,
+        pos.y - radius,
+        radius * 2,
+        radius * 2,
+      );
+
+      ctx.restore();
+    } else {
+      drawCircle(ctx, pos, radius, circle.color, circle.color);
+    }
+  });
+};
+
 const main = async () => {
   const res: Response = await fetch("/data/anime-girls.json");
-  const animeGirls: AnimeGirl[] = await res.json();
+  const animeGirls: AnimeGirl[] = (await res.json());
   const animeMap: AnimeMap = animeGirls.reduce((acc, curr) => {
     const { animeName } = curr;
     if (!acc[animeName]) {
@@ -133,41 +175,89 @@ const main = async () => {
     anime.rank = animeRank;
   });
 
-  const sortedAnime = Object.values(animeMap).sort((a, b) => {
-    const avgRankA = a.rank / a.girls.length;
-    const avgRankB = b.rank / b.girls.length;
+  const SCALE = 0.13;
 
-    return avgRankA - avgRankB;
-  });
+  const animeArr = Object.values(animeMap);
 
-  const SCALE = 0.2;
+  const circles: Circle[] = [];
 
-  const circles = sortedAnime.map((anime) => {
+  for (const anime of animeArr) {
     const avgRank = anime.rank / anime.girls.length;
     const radius = Math.max(5, 512 - avgRank) * SCALE;
     const color = `hsl(${Math.random() * 360}, 100%, 50%)`;
-    return {
-      name: anime.name,
+    const translatedName = await translateText(anime.name);
+
+    let image: HTMLImageElement | undefined;
+
+    if (radius > 10) {
+      const imageUrl = await getAnimeImageURL(translatedName);
+
+      if (imageUrl) {
+        image = new Image();
+        image.src = imageUrl;
+        await new Promise((resolve) => {
+          image!.onload = resolve;
+          image!.onerror = resolve;
+        });
+      }
+    }
+
+    circles.push({
       radius,
       color,
-      x: 0,
-      y: 0,
-    };
-  });
+      pos: new Vector2(0, 0),
+      image,
+      ...anime,
+    });
+  }
 
   const packedCircles = packCircles(canvas.width, canvas.height, circles);
 
-  packedCircles.forEach((circle) => {
-    drawCircle(
-      ctx,
-      new Vector2(circle.x, circle.y),
-      circle.radius,
-      circle.color,
-      circle.color,
-    );
-  });
+  renderCircles(packedCircles);
 
-  console.log("Packed circles:", packedCircles);
+  canvas.addEventListener("mousemove", (event) => {
+    const rect = canvas.getBoundingClientRect();
+    const mouseX = event.clientX - rect.left;
+    const mouseY = event.clientY - rect.top;
+
+    console.log("mouse", mouseX, mouseY);
+
+    const hoveredCircle = packedCircles.find((circle) => {
+      const dx = circle.pos.x - mouseX;
+      const dy = circle.pos.y - mouseY;
+      return Math.sqrt(dx * dx + dy * dy) < circle.radius;
+    });
+
+    const popup = document.getElementById("hover-popup");
+    if (!popup) {
+      console.error("Hover popup element not found.");
+      return;
+    }
+
+    if (hoveredCircle) {
+      popup.style.display = "block";
+      popup.style.left = `${event.clientX + 10}px`;
+      popup.style.top = `${event.clientY + 10}px`;
+      popup.innerHTML = `
+        <h3>${hoveredCircle.name}</h3>
+        <p>Rank: ${hoveredCircle.rank}</p>
+        <p>Avg Rank: ${Math.floor(hoveredCircle.rank / hoveredCircle.girls.length)}</p>
+        <p>Top girls: ${hoveredCircle.girls
+          .sort((a, b) => {
+            const parsedRankA = a.tournamentRank.split(" ")[0];
+            const parsedRankB = b.tournamentRank.split(" ")[0];
+            return Number(parsedRankA) - Number(parsedRankB);
+          })
+          .map((girl) => girl.girlName)
+          .slice(0, 3)
+          .join(", ")}</p>
+       `;
+    } else {
+      popup.style.display = "none";
+    }
+
+    console.log("hovered", hoveredCircle?.name);
+  });
 };
 
 main();

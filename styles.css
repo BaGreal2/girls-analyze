@@ -20,3 +20,14 @@
   background-color: #f0f0f0;
   border: 1px solid #ccc;
 }
+
+#hover-popup {
+  padding: 20px 10px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  backdrop-filter: blur(3px);
+  border: 1px solid #ccc;
+  position: absolute;
+  display: none;
+}
